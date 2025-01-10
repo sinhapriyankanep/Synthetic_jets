@@ -11,3 +11,6 @@ f) Complexity: The design of a synthetic jets is more simpler.
 
 In a SJ: The flow field is more unsteady due to the presence of movement of the actuator. Due to the periodic formation and advection of vortex rings from the orifice exit.
 
+While trying to simulate the flow for the synthetic jets, the inlet velocity is provided based on the membrane theory.
+  Membrane theory : In fluid mechanics, membrane theory implies to the simplified conceptual framework applied to very thin surfaces or structures interacting with the flow. 
+  It is applied in the cases involving deformable structures, thin films or interfaces where the surface dynamics significantly influences the fluid flow behavior. 🎃 
