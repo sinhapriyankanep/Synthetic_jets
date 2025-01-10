@@ -1,0 +1,13 @@
+Synthetic jets: Synthetic jets is a type of flow control technique in fluid mechanics in order to control the boundary layer, application in heat transfer and mixing enhancement.
+It does not have any external flow supply but rather includes a diaphragm or actuator in order to ingest or expel the fluid, so it is less complex compared to the pulse jet system as the pulse jet system includes an external 
+pressurized fluid source.
+The differences between pulse jet and synthetic jets are listed below:
+a) Net mass flux: Synthetic jets do not have any net mass flux as there is no external supply while a pulsed jet has a net mass flux. Synthetic jets are also known as the zero net mass flux systems
+b) Fluid source: Synthetic jets are self supplied with no fluid source while a pulsed jet includes a pressurized fluid supply.
+c) Velocity range: Synthetic jets operate for a lowe velocity range and pulse jet operate at a higher range.
+d) Re: Synthetic jets are used for a comparatively lower Re
+e) Control mechanism: A diaphragm or an actuator to control the inlet flow
+f) Complexity: The design of a synthetic jets is more simpler.
+
+In a SJ: The flow field is more unsteady due to the presence of movement of the actuator.
+
