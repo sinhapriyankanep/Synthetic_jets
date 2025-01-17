@@ -14,3 +14,24 @@ In a SJ: The flow field is more unsteady due to the presence of movement of the 
 While trying to simulate the flow for the synthetic jets, the inlet velocity is provided based on the membrane theory.
   Membrane theory : In fluid mechanics, membrane theory implies to the simplified conceptual framework applied to very thin surfaces or structures interacting with the flow. 
   It is applied in the cases involving deformable structures, thin films or interfaces where the surface dynamics significantly influences the fluid flow behavior. 🎃 
+Due to the pulsating effect, the entrainment of ambient fluid into the jet is higher
+
+Synthetic jets are jets directly "synthesized" from the fluid system in which the jet actuator is embedded. The oscillating membrane creates a periodic pressure and volume change in the cavity.
+With these oscillations, fluid is periodically entrained into and expelled out through an orifice.
+During suction, the flow field is created by the sink which coincides with the orifice while during the ejection, there is a formation of vortex ring nearby the exit of orifice.
+Under specific conditions, the formed vortex rings are convected away creating a jet.
+Stroke Length (L_o): It is the integral of the axial velocity during the ejection time period. (Ejection time period is half of the total time period)
+
+Mahalingam and Glezer carried out one of the first works by studying the synthetic jet impingement for the thermal enhancement of heat sinks (where they cooled the surface from 71deg to 36.5 deg)
+Chaudhari et. al confirmed that, at the same Re, the syntetic jets provided more performance compared to circular impingement jets. So, the requirement to go at a higher Re is removed.
+In synthetic jets, the dimensionless Stroke Length or Strohaul number plays a significant role, as it can decide the flow morphology. For example: Increasing th stroke length, increases the strength of the  vortex.
+At a very high non-dimensional stroke length (L/d), there is a formation of trailing jet that interferes with the vortex rings amd widens this vortex ring. 
+At a lower dimensionless stroke length, the jet width is more but with a lower centerline velocity.
+And, at a higher dimensionless stroke length, there is a presence of the trailing jet and the jet width is lesser with a higher centerline velocity.
+Furthermore, the phase related KE increases with the increase in the dimensionless stroke length, due to the increase in the amplitude of the external oscillation introduced in the flow.
+At a higher non-dimensional Stroke length, the turbulent kinetic energy decreases due to the presence of the trailing jet and its inherent potential core. Also, at a higher stroke length, the behaviour of the synthetic jets
+is more like a continuous jet but at a lower non-dimensional stroke length it is similar to the train of impinging vortex rings.
+ Synthetic jet flow consists of two primary flow structure: A trailing jet and primary vortex rings.
+The trailing jet is the part of the flow field that follows the primary vortex ring. This region of flow is characterised by low turbulence and is clled the potential core. And this potential core is surrounded by a shear 
+layer. Along this shear leayer zone, there is Kelvin Helmholtz instability causing the generation of multiple vortex rings. With decreasing stroke length, the distance between the vortex ring decreases when the dimsionless 
+stroke length is comparatively smaller.
