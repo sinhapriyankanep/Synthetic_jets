@@ -1,0 +1,22 @@
+; --- Load case and data ---
+/file/read-case-data "Name of your case"
+
+; --- Enable transient simulation (dual time) ---
+/define/models/unsteady yes   
+
+; --- Set time step to (if 1e-5 s )---
+/solve/set/time-step 1e-05
+
+; --- Set max iterations per time step ---
+/solve/set/max-iterations-per-time-step 20
+
+; --- Set auto-save settings to save every 100 steps (0.001s) ---
+/file/auto-save/root-name "output_data/sol_"
+/file/auto-save/data-frequency 10
+/file/auto-save/append-file-name-with flow-time
+
+; --- Run for 4000 time steps (total = 0.04s) ---
+/solve/dual-time-iterate 40000 20
+
+; --- Exit Fluent gracefully ---
+(exit)
